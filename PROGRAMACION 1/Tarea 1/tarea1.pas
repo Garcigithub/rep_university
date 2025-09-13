@@ -13,5 +13,5 @@ end;
 { Puntos obtenidos en cuestionarios }
 procedure LeerPuntosCuestionarios(var puntosCuestionarios: integer; var error: char);
 begin
-    
+
 end;
